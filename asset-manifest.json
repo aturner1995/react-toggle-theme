@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/react-toggle-theme/static/css/main.989bd36f.css",
+    "main.js": "/react-toggle-theme/static/js/main.c19940b2.js",
+    "static/js/787.b89ee20b.chunk.js": "/react-toggle-theme/static/js/787.b89ee20b.chunk.js",
+    "index.html": "/react-toggle-theme/index.html",
+    "main.989bd36f.css.map": "/react-toggle-theme/static/css/main.989bd36f.css.map",
+    "main.c19940b2.js.map": "/react-toggle-theme/static/js/main.c19940b2.js.map",
+    "787.b89ee20b.chunk.js.map": "/react-toggle-theme/static/js/787.b89ee20b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.989bd36f.css",
+    "static/js/main.c19940b2.js"
+  ]
+}
